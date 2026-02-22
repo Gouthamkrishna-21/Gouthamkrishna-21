@@ -53,7 +53,6 @@ Currently preparing for **Data Analyst roles (2026 batch)** and actively buildin
 
 🔗 [View Project](https://github.com/Gouthamkrishna-21/healthcare-ml-project)
 
----
 
 ### 🛒 Customer Behavior Analysis — Python + Jupyter Notebook
 - Analyzed shopping patterns and purchase behavior
@@ -62,7 +61,6 @@ Currently preparing for **Data Analyst roles (2026 batch)** and actively buildin
 
 🔗 [View Project](https://github.com/Gouthamkrishna-21/Customer_Behavior_Analysis)
 
----
 
 ### 📡 Telecom Churn Analysis — Python + Pandas
 - Identified key drivers of customer churn in the telecom sector
@@ -71,23 +69,11 @@ Currently preparing for **Data Analyst roles (2026 batch)** and actively buildin
 
 🔗 [View Project](https://github.com/Gouthamkrishna-21/Telecom-Churn-Analysis)
 
----
-
-## 📊 GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gouthamkrishna-21&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=A855F7&icon_color=A855F7&text_color=ffffff" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gouthamkrishna-21&theme=radical&hide_border=true&background=0D0D0D&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" width="48%"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gouthamkrishna-21&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=ffffff" width="48%"/>
 </p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gouthamkrishna-21&label=Profile+Views&color=A855F7&style=flat" alt="profile views" />
-</p>
-
-<p align="center">⭐ <i>If you like my work, consider giving my repos a star!</i> ⭐</p>
