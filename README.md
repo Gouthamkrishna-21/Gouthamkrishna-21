@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gouthamkrishnasikharam/" target="_blank">
+  <a href="https://www.linkedin.com/in/gouthamkrishnasikharam" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:gouthamkrishnasikharam41@gmail.com">
@@ -23,7 +23,7 @@ I build end-to-end data analysis pipelines: from raw, messy data to clean dashbo
 
 - 🏅 **HackerRank SQL Hard Certified** — window functions, recursive CTEs, correlated subqueries, complex joins
 - 📊 **Power BI** — Star Schema modeling, DAX measures (CALCULATE, RANKX, YoY), drill-through, KPI cards
-- 🐍 **Python** — Pandas, NumPy, Matplotlib
+- 🐍 **Python** — Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - 🗄️ **MySQL** — profit/margin calculations, aggregations, multi-table queries, subqueries
 - 🎯 Targeting **Data Analyst / MIS Analyst / BI Analyst** roles — open to work, July 2026
 
@@ -39,7 +39,6 @@ I build end-to-end data analysis pipelines: from raw, messy data to clean dashbo
 | Power BI | Simplilearn | 2025 |
 | Data Analytics Job Simulation | British Airways (Forage) | 2025 |
 | Data Analytics Job Simulation | Deloitte (Forage) | 2025 |
-| Business Analytics Internship | AICTE Approved | 2025 |
 
 ---
 
@@ -63,14 +62,37 @@ I build end-to-end data analysis pipelines: from raw, messy data to clean dashbo
 
 ## 🚀 Projects
 
-### 🛒 E-Commerce Customer Segmentation & RFM Analysis
-> Python · MySQL · Power BI · Pandas · Kaggle Dataset
+### 🛒 E-Commerce Customer Segmentation & RFM Analysis ⭐ Main Project
+> Python · MySQL · Power BI · Pandas · 500K+ rows · Kaggle Dataset
 
-- Applied **RFM (Recency, Frequency, Monetary)** scoring with quantile-based binning to segment customers into Champions, Loyal, At-Risk, and Lost cohorts
-- Built a full Python EDA pipeline: deduplication, null handling, outlier detection, and feature engineering
-- Wrote MySQL queries for segment-level aggregations; decile analysis to rank customer value
-- Delivered a **4-page interactive Power BI dashboard** (Executive Overview, RFM Segmentation, Product Performance, Customer Value Analysis) using Star Schema and DAX
+- Cleaned 500K+ raw transactional rows — removed null CustomerIDs (24.93%), cancelled orders, duplicates, and non-product stock codes
+- Applied **RFM (Recency, Frequency, Monetary)** scoring with quantile-based binning to classify **4,340 customers** into Champions, Loyal, Potential Loyalists, At-Risk, and Lost segments
+- Key finding: **647 Champion customers generate 59% of £10.64M total revenue** — classic Pareto distribution
+- Performed **decile analysis** to rank customers by monetary spend and identify upselling opportunities
+- Delivered a **4-page interactive Power BI dashboard** — Executive Overview, RFM Segmentation, Product Performance, Customer Value Analysis
 - Dataset published on Kaggle: [ecommerce-raw-data-and-cleaned-data](https://www.kaggle.com/datasets/gouthamsikharam/ecommerce-raw-data-and-cleaned-data)
+
+🔗 [View Project](https://github.com/Gouthamkrishna-21/ecommerce-rfm-analysis)
+
+---
+### 🏥 Healthcare Disease Prediction — Python + Scikit-Learn
+> Classification · Feature Engineering · EDA · Streamlit
+
+- Built an end-to-end ML pipeline across **7 healthcare datasets** using HFR-MADM and Logistic Regression
+- Performed feature engineering, multi-dataset preprocessing, and cross-validation model evaluation
+- Deployed with a **Streamlit interface** for interactive predictions
+
+🔗 [View Project](https://github.com/Gouthamkrishna-21/healthcare-ml-project)
+
+---
+### 🛍️ Customer Shopping Behavior Analysis
+> Python · MySQL · Power BI · Pandas · 3,900 transactions
+
+- Analyzed **3,900 retail transactions** across 18 features including demographics, purchase behavior, and subscription status
+- Cleaned raw data: imputed 37 missing review ratings with category-wise median, engineered age group and purchase frequency features
+- Ran **10 targeted SQL queries** — revenue by gender, discount impact, top-rated products, subscriber vs. non-subscriber spend, customer segmentation (New / Returning / Loyal)
+- Built a Power BI dashboard covering revenue breakdown, payment preferences, discount impact, and top products
+- Key finding: subscribers spend more and show stronger loyalty; discounts increase volume but reduce margins
 
 🔗 [View Project](https://github.com/Gouthamkrishna-21/Customer_Behavior_Analysis)
 
@@ -87,16 +109,6 @@ I build end-to-end data analysis pipelines: from raw, messy data to clean dashbo
 
 ---
 
-### 🏥 Healthcare Disease Prediction — Python + Scikit-Learn
-> Classification · Feature Engineering · EDA · Streamlit
-
-- Built an end-to-end ML pipeline across **7 healthcare datasets** using HFR-MADM and Logistic Regression
-- Performed feature engineering, multi-dataset preprocessing, and cross-validation model evaluation
-- Deployed with a **Streamlit interface** for interactive predictions
-
-🔗 [View Project](https://github.com/Gouthamkrishna-21/healthcare-ml-project)
-
----
 
 ### 📺 Netflix Dashboard — Power BI / Data Visualization
 > Content Analysis · EDA · Dashboard Design
