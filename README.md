@@ -72,7 +72,7 @@ I build end-to-end data analysis pipelines: from raw, messy data to clean dashbo
 - Delivered a **4-page interactive Power BI dashboard** — Executive Overview, RFM Segmentation, Product Performance, Customer Value Analysis
 - Dataset published on Kaggle: [ecommerce-raw-data-and-cleaned-data](https://www.kaggle.com/datasets/gouthamsikharam/ecommerce-raw-data-and-cleaned-data)
 
-🔗 [View Project](https://github.com/Gouthamkrishna-21/ecommerce-rfm-analysis)
+🔗 [View Project](https://github.com/Gouthamkrishna-21/E-Commerce-Customer-Segmentation-RFM-Analysis)
 
 ---
 ### 🏥 Healthcare Disease Prediction — Python + Scikit-Learn
@@ -97,18 +97,6 @@ I build end-to-end data analysis pipelines: from raw, messy data to clean dashbo
 🔗 [View Project](https://github.com/Gouthamkrishna-21/Customer_Behavior_Analysis)
 
 ---
-
-### 🎬 Movie Financial Dashboard — Python + MySQL
-> Pandas · Matplotlib · Seaborn · MySQL · CSV
-
-- Analyzed movie financial data using **MySQL** for profit and profit margin calculations across datasets
-- Built **two Python dashboards** (11 charts total) with Matplotlib and Seaborn covering revenue trends, genre profitability, and ROI breakdowns
-- Combined SQL-level aggregations with Python visualizations in a single end-to-end pipeline
-
-🔗 [View Project](https://github.com/Gouthamkrishna-21/Movie-Financial-dashboard)
-
----
-
 
 ### 📺 Netflix Dashboard — Power BI / Data Visualization
 > Content Analysis · EDA · Dashboard Design
