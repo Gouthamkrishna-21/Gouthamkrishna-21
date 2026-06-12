@@ -134,5 +134,5 @@ I build end-to-end data analysis pipelines: from raw, messy data to clean dashbo
 
 <p align="center">
   <i>Open to Data Analyst · MIS Analyst · BI Analyst · Reporting Analyst roles — India, 2026</i><br/>
-  <a href="mailto:gouthamkrishnasikharam41@gmail.com">gouthamkrishnasikharam41@gmail.com</a>
+  <a href="mailto:gouthamksikharam2024@gmail.com">gouthamksikharam2024@gmail.com</a>
 </p>
