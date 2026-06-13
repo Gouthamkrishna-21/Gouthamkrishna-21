@@ -61,7 +61,7 @@ I build end-to-end data analysis pipelines: from raw, messy data to clean dashbo
 ---
 
 ## 🚀 Projects
-### 🏥 Hospital KPI Performance Dashboard & Healthcare Analytics ⭐ Main Project
+### 🏥 Hospital KPI Analysis ⭐ Main Project
 > Power BI · Python · DAX · Healthcare Analytics · 60 Monthly Records · 2020–2024
 
 - Analyzed **5 years of hospital operational data (60 monthly observations)** covering Bed Occupancy Rate, Staff Responsiveness Score, and Unassisted Fall Rate
