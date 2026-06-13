@@ -61,7 +61,21 @@ I build end-to-end data analysis pipelines: from raw, messy data to clean dashbo
 ---
 
 ## 🚀 Projects
+### 🏥 Hospital KPI Performance Dashboard & Healthcare Analytics ⭐ Main Project
+> Power BI · Python · DAX · Healthcare Analytics · 60 Monthly Records · 2020–2024
 
+- Analyzed **5 years of hospital operational data (60 monthly observations)** covering Bed Occupancy Rate, Staff Responsiveness Score, and Unassisted Fall Rate
+- Performed **exploratory data analysis in Python** to identify trends, seasonal patterns, benchmark performance, and KPI relationships
+- Built an **interactive Power BI dashboard** featuring KPI cards, trend analysis, benchmark tracking, gauge charts, scatter plots, and executive-level insights
+- Developed **DAX measures and calculated columns** for benchmark compliance analysis, KPI aggregation, and performance monitoring
+- Discovered that only **21 of 60 months (35%)** met the national staff responsiveness benchmark of 65%
+- Identified a strong positive relationship between **occupancy rate and patient fall rate**, highlighting capacity pressure as a key operational challenge
+- Created actionable recommendations including dynamic staffing strategies, winter surge planning, fall-prevention protocols, and real-time KPI monitoring
+- Delivered a complete analytics solution including **Python EDA, Power BI dashboard, business report, and data-driven recommendations**
+
+🔗 [View Project](https://github.com/Gouthamkrishna-21/Hospital-KPI-Performance)
+
+---
 ### 🛒 E-Commerce Customer Segmentation & RFM Analysis ⭐ Main Project
 > Python · MySQL · Power BI · Pandas · 500K+ rows · Kaggle Dataset
 
