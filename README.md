@@ -110,28 +110,6 @@ I build end-to-end data analysis pipelines: from raw, messy data to clean dashbo
 
 🔗 [View Project](https://github.com/Gouthamkrishna-21/Customer_Behavior_Analysis)
 
----
-
-### 📺 Netflix Dashboard — Power BI / Data Visualization
-> Content Analysis · EDA · Dashboard Design
-
-- Analyzed Netflix content library — genre distribution, release trends, country-wise content volume
-- Built visual dashboard summarizing platform content patterns
-
-🔗 [View Project](https://github.com/Gouthamkrishna-21/Netflix-Dashboard)
-
----
-
-### 📡 Telecom Churn Analysis — Python + Pandas
-> Churn Prediction · EDA · Retention Insights
-
-- Identified top churn drivers through structured EDA and feature analysis
-- Cleaned and transformed raw telecom data using Pandas
-- Translated findings into retention-focused business recommendations
-
-🔗 [View Project](https://github.com/Gouthamkrishna-21/Telecom-Churn-Analysis)
-
----
 
 ## 📊 GitHub Stats
 
