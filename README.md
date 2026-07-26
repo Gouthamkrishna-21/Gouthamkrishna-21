@@ -1,130 +1,41 @@
-<h1 align="center">Goutham Krishna Sikharam</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&height=50&lines=Hi%2C+I'm+Goutham+KS+%F0%9F%91%8B;Data+Analyst;SQL+%7C+Python+%7C+Power+BI" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&background=0D0D0D00&center=true&vCenter=true&width=800&lines=Data+Analyst+%7C+SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI;HackerRank+SQL+Hard+Certified+%F0%9F%8F%85;B.Tech+AI+%26+Data+Science+%7C+2026+Graduate" alt="Typing SVG" />
-</p>
+# 💫 About Me:
+I'm a Data Analyst with hands-on experience building SQL, Python, and Power BI solutions across 500K+ records of enterprise data. I've engineered ETL pipelines and dashboards that drove a 25% lift in conversion and 92% model accuracy on live, deployed projects — and I like turning messy operational data into insights people can actually act on.<br><br>🎓 B.Tech in AI & Data Science | GPA 8.27/10 | Pace Institute of Technology and Sciences (Oct 2022 – Jun 2026)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gouthamkrishnasikharam" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:gouthamkrishnasikharam41@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gouthamkrishnasikharam/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gouthamsikharam2024@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-12100E?logo=github&logoColor=white)](https://gouthamks.github.io) [![HackerRank](https://img.shields.io/badge/HackerRank-2EC474?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/gouthamkrishna_21)
 
----
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Streamlit](https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-## 👨‍💻 About Me
+# 💼 Experience:
+**Data Analyst Intern (Freelance) — Remote** | *Apr 2026 – Present*
+- Cleaned, validated, and standardized 500K+ records of enterprise data using SQL and Python.
+- Built automated ETL pipelines (Python + SQL) to streamline transactional data aggregation and reporting.
+- Delivered interactive Power BI dashboards with DAX measures, drill-downs, and dynamic slicers.
 
-B.Tech graduate (2026) in **Artificial Intelligence & Data Science** — Pace Institute of Technology and Sciences, Andhra Pradesh | CGPA: **8.27**
+# 🚀 Featured Projects:
+**E-Commerce Operational Metrics & Pipeline Automation** | *May 2026 – Jun 2026*
+Automated processing of 500,000+ transaction rows, built an end-to-end ETL pipeline (Python + Power Query), and shipped a 4-page Power BI dashboard with cross-filtering — forecasting a 25% lift in conversion and 10% improvement in resource retention.
 
-I build end-to-end data analysis pipelines: from raw, messy data to clean dashboards and business insights. My work spans SQL analytics, Python-based EDA, and interactive Power BI reporting.
+**Operations Capacity & Performance Analytics** | *Mar 2026 – Apr 2026*
+Analyzed 60 months of operations data, built Python pipelines to clean outliers and missing values, and found asset occupancy stayed above 95% while benchmarks were only met in 21/60 months — with a -0.79 correlation between resource shortages and incidents.
 
-- 🏅 **HackerRank SQL Hard Certified** — window functions, recursive CTEs, correlated subqueries, complex joins
-- 📊 **Power BI** — Star Schema modeling, DAX measures (CALCULATE, RANKX, YoY), drill-through, KPI cards
-- 🐍 **Python** — Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-- 🗄️ **MySQL** — profit/margin calculations, aggregations, multi-table queries, subqueries
-- 🎯 Targeting **Data Analyst / MIS Analyst / BI Analyst** roles — open to work, July 2026
+**Data Optimization & Automated Decision System** | *Jan 2026 – Feb 2026*
+Designed a MADM-inspired scoring framework to rank data quality, built validation pipelines across 5,000+ records spanning 7 healthcare datasets, and trained a Logistic Regression model with 92% test accuracy — deployed as a live Streamlit patient risk-prediction app.
 
----
+# 🏆 Certifications:
+- SQL (Basic, Intermediate & Advanced) — HackerRank
+- Microsoft Power BI Certification — Simplilearn
+- Data Science Virtual Experience — British Airways / Forage
+- Data Analytics Virtual Experience — Deloitte Australia / Forage
+- Business Analytics & Data Viz Internship — EduSkills
 
-## 🏅 Certifications
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Gouthamkrishna-21&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Gouthamkrishna-21&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Gouthamkrishna-21&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-| Certification | Issuer | Year |
-|---|---|---|
-| SQL (Hard) | HackerRank | 2026 |
-| SQL (Intermediate) | HackerRank | 2026 |
-| SQL (Basic) | HackerRank | 2026 |
-| Power BI | Simplilearn | 2025 |
-| Data Analytics Job Simulation | British Airways (Forage) | 2025 |
-| Data Analytics Job Simulation | Deloitte (Forage) | 2025 |
-
----
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-3C78A9?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
-
-## 🚀 Projects
-### 🏥 Hospital KPI Analysis ⭐ Main Project
-> Power BI · Python · DAX · Healthcare Analytics · 60 Monthly Records · 2020–2024
-
-- Analyzed **5 years of hospital operational data (60 monthly observations)** covering Bed Occupancy Rate, Staff Responsiveness Score, and Unassisted Fall Rate
-- Performed **exploratory data analysis in Python** to identify trends, seasonal patterns, benchmark performance, and KPI relationships
-- Built an **interactive Power BI dashboard** featuring KPI cards, trend analysis, benchmark tracking, gauge charts, scatter plots, and executive-level insights
-- Developed **DAX measures and calculated columns** for benchmark compliance analysis, KPI aggregation, and performance monitoring
-- Discovered that only **21 of 60 months (35%)** met the national staff responsiveness benchmark of 65%
-- Identified a strong positive relationship between **occupancy rate and patient fall rate**, highlighting capacity pressure as a key operational challenge
-- Created actionable recommendations including dynamic staffing strategies, winter surge planning, fall-prevention protocols, and real-time KPI monitoring
-- Delivered a complete analytics solution including **Python EDA, Power BI dashboard, business report, and data-driven recommendations**
-
-🔗 [View Project](https://github.com/Gouthamkrishna-21/Hospital-KPI-Performance)
-
----
-### 🛒 E-Commerce Customer Segmentation & RFM Analysis ⭐ Main Project
-> Python · MySQL · Power BI · Pandas · 500K+ rows · Kaggle Dataset
-
-- Cleaned 500K+ raw transactional rows — removed null CustomerIDs (24.93%), cancelled orders, duplicates, and non-product stock codes
-- Applied **RFM (Recency, Frequency, Monetary)** scoring with quantile-based binning to classify **4,340 customers** into Champions, Loyal, Potential Loyalists, At-Risk, and Lost segments
-- Key finding: **647 Champion customers generate 59% of £10.64M total revenue** — classic Pareto distribution
-- Performed **decile analysis** to rank customers by monetary spend and identify upselling opportunities
-- Delivered a **4-page interactive Power BI dashboard** — Executive Overview, RFM Segmentation, Product Performance, Customer Value Analysis
-- Dataset published on Kaggle: [ecommerce-raw-data-and-cleaned-data](https://www.kaggle.com/datasets/gouthamsikharam/ecommerce-raw-data-and-cleaned-data)
-
-🔗 [View Project](https://github.com/Gouthamkrishna-21/E-Commerce-Customer-Segmentation-RFM-Analysis)
-
----
-### 🏥 Healthcare Disease Prediction — Python + Scikit-Learn
-> Classification · Feature Engineering · EDA · Streamlit
-
-- Built an end-to-end ML pipeline across **7 healthcare datasets** using HFR-MADM and Logistic Regression
-- Performed feature engineering, multi-dataset preprocessing, and cross-validation model evaluation
-- Deployed with a **Streamlit interface** for interactive predictions
-
-🔗 [View Project](https://github.com/Gouthamkrishna-21/healthcare-ml-project)
-
----
-### 🛍️ Customer Shopping Behavior Analysis
-> Python · MySQL · Power BI · Pandas · 3,900 transactions
-
-- Analyzed **3,900 retail transactions** across 18 features including demographics, purchase behavior, and subscription status
-- Cleaned raw data: imputed 37 missing review ratings with category-wise median, engineered age group and purchase frequency features
-- Ran **10 targeted SQL queries** — revenue by gender, discount impact, top-rated products, subscriber vs. non-subscriber spend, customer segmentation (New / Returning / Loyal)
-- Built a Power BI dashboard covering revenue breakdown, payment preferences, discount impact, and top products
-- Key finding: subscribers spend more and show stronger loyalty; discounts increase volume but reduce margins
-
-🔗 [View Project](https://github.com/Gouthamkrishna-21/Customer_Behavior_Analysis)
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gouthamkrishna-21&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=A855F7&icon_color=A855F7&text_color=ffffff" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gouthamkrishna-21&theme=radical&hide_border=true&background=0D0D0D&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gouthamkrishna-21&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=ffffff" width="48%"/>
-</p>
-
----
-
-<p align="center">
-  <i>Open to Data Analyst · MIS Analyst · BI Analyst · Reporting Analyst roles — India, 2026</i><br/>
-  <a href="mailto:gouthamksikharam2024@gmail.com">gouthamksikharam2024@gmail.com</a>
-</p>
