@@ -13,7 +13,7 @@ I'm a Data Analyst with hands-on experience building SQL, Python, and Power BI s
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Streamlit](https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 # 💼 Experience:
-**Data Analyst Intern (Freelance) — Remote** | *Mar 2026 – Present*
+**Data Analyst (Freelance) — Remote** | *Mar 2026 – Present*
 - Cleaned, validated, and standardized 500K+ records of enterprise data using SQL and Python.
 - Built automated ETL pipelines (Python + SQL) to streamline transactional data aggregation and reporting.
 - Delivered interactive Power BI dashboards with DAX measures, drill-downs, and dynamic slicers.
