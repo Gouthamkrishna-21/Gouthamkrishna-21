@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:BB9AF7&height=200&section=header&text=Goutham%20Krishna%20S&fontSize=44&fontColor=ffffff&desc=Data%20Analyst%20%7C%20SQL%20%7C%20Python%20%7C%20Power%20BI&descSize=18" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Goutham%20Krishna%20S&fontSize=50&fontColor=ffffff&fontAlignY=32&desc=Data%20Analyst%20%E2%80%A2%20SQL%20%E2%80%A2%20Python%20%E2%80%A2%20Power%20BI&descSize=20&descAlignY=56&descColor=7AA2F7&animation=fadeIn" alt="header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=720&height=45&lines=Turning+messy+data+into+decisions+%F0%9F%93%8A;500K%2B+records+cleaned+%26+analyzed;ETL+Pipelines+%7C+Dashboards+%7C+ML+Models" alt="typing" />
@@ -50,7 +50,6 @@ I'm a **Data Analyst** who turns messy operational data into insights people can
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
 
-<br/><br/>
 
 **🗄️ Databases & Querying**<br/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -58,7 +57,6 @@ I'm a **Data Analyst** who turns messy operational data into insights people can
 <img src="https://img.shields.io/badge/ETL_Pipelines-7AA2F7?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Data_Modeling-BB9AF7?style=for-the-badge" />
 
-<br/><br/>
 
 **🐍 Python & Analytics**<br/>
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -70,7 +68,6 @@ I'm a **Data Analyst** who turns messy operational data into insights people can
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 
-<br/><br/>
 
 **📈 Analytics Skills**<br/>
 <img src="https://img.shields.io/badge/Data_Cleaning-2EC474?style=for-the-badge" />
@@ -80,7 +77,6 @@ I'm a **Data Analyst** who turns messy operational data into insights people can
 <img src="https://img.shields.io/badge/Statistical_Analysis-2EC474?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Data_Storytelling-2EC474?style=for-the-badge" />
 
-<br/><br/>
 
 **🤝 Tools & Collaboration**<br/>
 <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
@@ -89,7 +85,6 @@ I'm a **Data Analyst** who turns messy operational data into insights people can
 
 </div>
 
-<br/>
 
 ## 💼 &nbsp;Experience
 
@@ -163,6 +158,6 @@ Designed a **MADM-inspired scoring framework** to rank data quality, with valida
 
 <a href="mailto:gouthamsikharam2024@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-gouthamsikharam2024@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:BB9AF7&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" />
 
 </div>
