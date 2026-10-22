@@ -88,7 +88,7 @@ I'm a **Data Analyst** who turns messy operational data into insights people can
 
 ## 💼 &nbsp;Experience
 
-**Data Analyst (Freelance)** &nbsp;·&nbsp; Remote &nbsp;·&nbsp; *Mar 2026 – Present*
+**Data Edge Solutions** &nbsp;·&nbsp; Remote &nbsp;·&nbsp; *April 2026 – october 2026*
 
 🧹 &nbsp;Cleaned, validated, and standardized **500K+ enterprise records** using SQL and Python
 ⚙️ &nbsp;Built **automated ETL pipelines** (Python + SQL) for transactional data aggregation and reporting
